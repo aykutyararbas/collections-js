@@ -9,4 +9,5 @@ JavaScript Collections Library for better data structurez
 + poll
 + peek
 + iterator 
-### BlockingQueue
+
+## BlockingQueue
